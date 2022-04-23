@@ -1,2 +1,3 @@
 # ukraine
 # the war
+# loss
